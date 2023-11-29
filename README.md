@@ -2,6 +2,7 @@
 web scraping facebook export group name python
 
 - License Key check
-- web scraping facebook
-- export group name
+- connect python to sql server
+- web scraping facebook 
+- export group name to excel file
 
